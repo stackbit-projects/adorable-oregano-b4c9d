@@ -13,6 +13,7 @@ sections:
     title: >-
       We love our sea, we care about it, and we want to enjoy it for years to
       come.
+    alignVert: bottom
   - type: FeaturedPeopleSection
     variant: variant-c
     colors: colors-a
