@@ -10,7 +10,9 @@ sections:
     alignHoriz: center
     topGap: none
     bottomGap: none
-    title: We love our sea, we care about it, and we want to enjoy it for years to come.
+    title: >-
+      We love our sea, we care about it, and we want to enjoy it for years to
+      come.
   - type: FeaturedPeopleSection
     variant: variant-c
     colors: colors-a
@@ -41,7 +43,7 @@ sections:
     actions:
       - type: Button
         label: Contact Us
-        url: "https://www.stackbit.com/"
+        url: 'https://www.stackbit.com/'
         style: secondary
   - type: FeaturedPostsSection
     variant: variant-a
@@ -62,11 +64,41 @@ sections:
     topGap: large
     bottomGap: none
     alignHoriz: left
-    quote: |-
-      “In every species of fish I’ve angled for, it is the ones that have got away that thrill me the most, the ones that keep fresh in my memory. So I say it is good to lose fish. If we didn’t, much of the thrill of angling would be gone.”
+    quote: >-
+      “In every species of fish I’ve angled for, it is the ones that have got
+      away that thrill me the most, the ones that keep fresh in my memory. So I
+      say it is good to lose fish. If we didn’t, much of the thrill of angling
+      would be gone.”
     name: Ray Bergman
     backgroundImage:
       type: ImageBlock
-      url: "/images/quote-bg.jpg"
+      url: /images/quote-bg.jpg
       opacity: 80
+  - variant: variant-a
+    colors: colors-a
+    width: wide
+    height: short
+    topGap: small
+    bottomGap: small
+    alignHoriz: left
+    badge: lorem-ipsum
+    title: lorem-ipsum
+    text: >-
+      ## Lorem ipsum
+
+
+      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+      - Lorem ipsum
+
+      - dolor sit amet
+    actions: []
+    backgroundImage:
+      altText: lorem-ipsum
+      caption: lorem-ipsum
+      opacity: 0
+      type: ImageBlock
+    type: CtaSection
 ---
