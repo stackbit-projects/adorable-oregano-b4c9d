@@ -7,7 +7,7 @@ sections:
     colors: colors-f
     width: full
     height: viewport
-    alignHoriz: center
+    alignHoriz: left
     topGap: none
     bottomGap: none
     title: >-
