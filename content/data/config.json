@@ -35,6 +35,14 @@
                 "style": "link",
                 "icon": "arrowRight",
                 "type": "Link"
+            },
+            {
+                "label": "lorem-ipsum",
+                "url": "#",
+                "altText": "lorem-ipsum",
+                "style": "link",
+                "icon": "arrowRight",
+                "type": "Link"
             }
         ],
         "secondaryLinks": [
