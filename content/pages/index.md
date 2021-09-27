@@ -117,4 +117,31 @@ sections:
         label: Get Started
         url: 'https://www.stackbit.com/'
         style: secondary
+  - variant: variant-a
+    colors: colors-a
+    width: wide
+    height: short
+    topGap: small
+    bottomGap: small
+    alignHoriz: left
+    badge: lorem-ipsum
+    title: lorem-ipsum
+    text: >-
+      ## Lorem ipsum
+
+
+      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+      - Lorem ipsum
+
+      - dolor sit amet
+    actions: []
+    backgroundImage:
+      altText: lorem-ipsum
+      caption: lorem-ipsum
+      opacity: 0
+      type: ImageBlock
+    type: CtaSection
 ---
