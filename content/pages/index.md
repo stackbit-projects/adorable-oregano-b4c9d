@@ -71,8 +71,8 @@ sections:
     topGap: small
     bottomGap: large
     posts:
-      - content/pages/blog/kayak-fishing-5-advantages-and-benefits.md
       - content/pages/blog/sustainability-at-its-purest.md
+      - content/pages/blog/kayak-fishing-5-advantages-and-benefits.md
       - content/pages/blog/as-fresh-as-it-gets.md
   - type: ContactSection
     variant: variant-b
