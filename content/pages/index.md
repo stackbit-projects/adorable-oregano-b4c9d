@@ -38,18 +38,6 @@ sections:
           caption: lorem-ipsum
           opacity: 0
           type: ImageBlock
-  - type: FeaturedPostsSection
-    variant: variant-a
-    colors: colors-a
-    width: full
-    alignHoriz: center
-    title: Our Classes
-    topGap: small
-    bottomGap: large
-    posts:
-      - content/pages/blog/sustainability-at-its-purest.md
-      - content/pages/blog/kayak-fishing-5-advantages-and-benefits.md
-      - content/pages/blog/as-fresh-as-it-gets.md
   - type: CtaSection
     variant: variant-b
     colors: colors-c
@@ -116,6 +104,18 @@ sections:
           label: Sign me up to receive updates
           width: full
       submitLabel: Send Message
+  - type: FeaturedPostsSection
+    variant: variant-a
+    colors: colors-a
+    width: full
+    alignHoriz: center
+    title: Our Classes
+    topGap: small
+    bottomGap: large
+    posts:
+      - content/pages/blog/sustainability-at-its-purest.md
+      - content/pages/blog/kayak-fishing-5-advantages-and-benefits.md
+      - content/pages/blog/as-fresh-as-it-gets.md
   - variant: variant-a
     colors: colors-a
     width: wide
