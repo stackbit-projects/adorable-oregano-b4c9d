@@ -95,7 +95,7 @@ sections:
       - content/pages/blog/as-fresh-as-it-gets.md
   - variant: variant-a
     colors: colors-a
-    width: wide
+    width: full
     height: short
     topGap: small
     bottomGap: small
