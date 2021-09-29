@@ -39,6 +39,29 @@ sections:
           sustainable fish supply to home cooks.”
         name: Isabelle Parks
         title: Head chef at Parks
+      - quote: >-
+          ## Lorem ipsum
+
+
+          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+          - Lorem ipsum
+
+          - dolor sit amet
+        name: lorem-ipsum
+        title: lorem-ipsum
+        image:
+          altText: lorem-ipsum
+          caption: lorem-ipsum
+          opacity: 0
+          type: ImageBlock
+        logo:
+          altText: lorem-ipsum
+          caption: lorem-ipsum
+          opacity: 0
+          type: ImageBlock
   - type: FeaturedPostsSection
     variant: variant-a
     colors: colors-a
