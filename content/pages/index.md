@@ -31,7 +31,7 @@ sections:
       with anglers.
     backgroundImage:
       type: ImageBlock
-      url: /images/cta.jpg
+      url: /images/post-1.jpg
       opacity: 20
     actions:
       - type: Button
