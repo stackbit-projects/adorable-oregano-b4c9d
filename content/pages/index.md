@@ -50,30 +50,6 @@ sections:
       - content/pages/blog/sustainability-at-its-purest.md
       - content/pages/blog/kayak-fishing-5-advantages-and-benefits.md
       - content/pages/blog/as-fresh-as-it-gets.md
-  - type: HeroSection
-    variant: variant-c
-    colors: colors-c
-    width: full
-    height: tall
-    alignHoriz: left
-    topGap: none
-    bottomGap: none
-    title: We do fishing differently
-    text: >-
-      A group of local fisherman, working to deliver sustainable fish to your
-      table. <br />
-
-      Each fish you buy, helps support fishing reg  ulations and laws, to help
-      sustain a better future for our waters, our food, and our globe.
-    actions:
-      - type: Button
-        label: Get Started
-        url: 'https://www.stackbit.com/'
-        style: primary
-    backgroundImage:
-      type: ImageBlock
-      url: /images/post-2.jpg
-      opacity: 70
   - type: ContactSection
     variant: variant-b
     colors: colors-f
@@ -144,6 +120,30 @@ sections:
       opacity: 0
       type: ImageBlock
     type: CtaSection
+  - type: HeroSection
+    variant: variant-c
+    colors: colors-c
+    width: full
+    height: tall
+    alignHoriz: left
+    topGap: none
+    bottomGap: none
+    title: We do fishing differently
+    text: >-
+      A group of local fisherman, working to deliver sustainable fish to your
+      table. <br />
+
+      Each fish you buy, helps support fishing reg  ulations and laws, to help
+      sustain a better future for our waters, our food, and our globe.
+    actions:
+      - type: Button
+        label: Get Started
+        url: 'https://www.stackbit.com/'
+        style: primary
+    backgroundImage:
+      type: ImageBlock
+      url: /images/post-2.jpg
+      opacity: 70
   - type: CtaSection
     variant: variant-b
     colors: colors-c
