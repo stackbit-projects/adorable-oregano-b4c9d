@@ -38,6 +38,12 @@ sections:
         label: Get Started
         url: 'https://www.stackbit.com/'
         style: secondary
+      - label: lorem-ipsum
+        url: '#'
+        altText: lorem-ipsum
+        style: link
+        icon: arrowRight
+        type: Link
   - type: ContactSection
     variant: variant-b
     colors: colors-f
