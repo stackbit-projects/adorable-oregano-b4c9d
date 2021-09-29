@@ -45,7 +45,7 @@ sections:
         icon: arrowRight
         type: Link
   - type: ContactSection
-    variant: variant-b
+    variant: variant-a
     colors: colors-f
     width: wide
     height: short
