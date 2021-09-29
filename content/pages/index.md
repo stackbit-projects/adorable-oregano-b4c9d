@@ -50,6 +50,29 @@ sections:
       - content/pages/blog/sustainability-at-its-purest.md
       - content/pages/blog/kayak-fishing-5-advantages-and-benefits.md
       - content/pages/blog/as-fresh-as-it-gets.md
+  - type: CtaSection
+    variant: variant-b
+    colors: colors-c
+    width: full
+    height: short
+    topGap: large
+    bottomGap: none
+    alignHoriz: left
+    title: Let's go kayak fishing!
+    text: >-
+      That kayak fishing community is special, the connection and support the
+      anglers share is unlike anything I have seen before. River Catch has seen
+      this firsthand by participating in events and they’re always spending time
+      with anglers.
+    backgroundImage:
+      type: ImageBlock
+      url: /images/cta.jpg
+      opacity: 20
+    actions:
+      - type: Button
+        label: Get Started
+        url: 'https://www.stackbit.com/'
+        style: secondary
   - type: ContactSection
     variant: variant-b
     colors: colors-f
@@ -144,27 +167,4 @@ sections:
       type: ImageBlock
       url: /images/post-2.jpg
       opacity: 70
-  - type: CtaSection
-    variant: variant-b
-    colors: colors-c
-    width: full
-    height: short
-    topGap: large
-    bottomGap: none
-    alignHoriz: left
-    title: Let's go kayak fishing!
-    text: >-
-      That kayak fishing community is special, the connection and support the
-      anglers share is unlike anything I have seen before. River Catch has seen
-      this firsthand by participating in events and they’re always spending time
-      with anglers.
-    backgroundImage:
-      type: ImageBlock
-      url: /images/cta.jpg
-      opacity: 20
-    actions:
-      - type: Button
-        label: Get Started
-        url: 'https://www.stackbit.com/'
-        style: secondary
 ---
