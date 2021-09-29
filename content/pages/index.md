@@ -96,7 +96,7 @@ sections:
   - variant: variant-a
     colors: colors-a
     width: full
-    height: short
+    height: viewport
     topGap: small
     bottomGap: small
     alignHoriz: left
